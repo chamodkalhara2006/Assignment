@@ -34,6 +34,8 @@
 		</section>
 	</main>
 	<footer>
+		<h1>chamod kalhara</h1>
+		
 		
 	</footer>
 </body>
